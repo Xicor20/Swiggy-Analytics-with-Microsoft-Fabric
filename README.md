@@ -151,4 +151,11 @@ All measures use ₹ (en-IN) currency format.
 
 ---
 
+## 🤝 Connect  
+
+- 📧 Email: tusharpokhariyal@gmail.com
+- 🌐 LinkedIn: https://www.linkedin.com/in/tushar-pokhariyal/ 
+
+---
+
 *Built as a capstone project to learn Microsoft Fabric during free trial. January–August dataset. All data is synthetic/sample data for learning purposes.*
