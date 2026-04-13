@@ -106,7 +106,7 @@ This project was built on a **Microsoft Fabric free trial**, which means:
 - The `Swiggy_Sales_Dashboard.pbix` file connects to `powerbi://api.powerbi.com/v1.0/myorg/Capstone` via DirectQuery
 - **Visuals will render blank** without an active Fabric connection to the semantic model (`swiggy_semantic`)
 - The **data model structure, relationships, DAX measures, and visual layout are fully intact** in the .pbix file
-- All key metrics, table schemas, and insights are documented in [`docs/Project_Report.docx`]([docs/Project_Report.docx](https://raw.githubusercontent.com/Xicor20/Swiggy-Analytics-with-Microsoft-Fabric/main/Swiggy_Analytics_Project_Report.docx))
+- All key metrics, table schemas, and insights are documented in the [Project Report (DOCX)](https://raw.githubusercontent.com/Xicor20/Swiggy-Analytics-with-Microsoft-Fabric/main/Swiggy_Analytics_Project_Report.docx)
 - Dashboard screenshots taken during the live trial are in the [`screenshots/`](screenshots/) folder
 
 This is a **known constraint of Fabric trial accounts** — the analytical design, modelling decisions, and DAX implementation are the primary portfolio artefacts.
