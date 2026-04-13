@@ -101,7 +101,7 @@ swiggy-fabric-analytics/
 
 ## ⚠️ Important Note — Trial Environment
 
-This project was built on a **Microsoft Fabric free trial**. The trial has since expired, which means:
+This project was built on a **Microsoft Fabric free trial**, which means:
 
 - The `Swiggy_Sales_Dashboard.pbix` file connects to `powerbi://api.powerbi.com/v1.0/myorg/Capstone` via DirectQuery
 - **Visuals will render blank** without an active Fabric connection to the semantic model (`swiggy_semantic`)
@@ -135,7 +135,7 @@ All measures use ₹ (en-IN) currency format.
 1. **Read the report** → [`docs/Project_Report.docx`](docs/Project_Report.docx) — complete documentation with live data metrics, schema, and insights
 2. **View screenshots** → [`screenshots/`](screenshots/) — dashboard visuals from the live trial
 3. **Inspect the model** → Open `Swiggy_Sales_Dashboard.pbix` in Power BI Desktop to see the star schema, relationships, and DAX measures (data will not load without Fabric connection)
-4. **Review SQL** → [`sql/`](sql/) — cleaning and warehouse creation scripts
+
 
 ---
 
