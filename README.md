@@ -132,9 +132,8 @@ All measures use ₹ (en-IN) currency format.
 
 ## 🚀 How to View This Project
 
-1. **Read the report** → [`docs/Project_Report.docx`](Swiggy-Analytics-with-Microsoft-Fabric
-/Swiggy_Analytics_Project_Report.docx
-) — complete documentation with live data metrics, schema, and insights
+1. **Read the report** → [Project_Report.docx](https://raw.githubusercontent.com/Xicor20/Swiggy-Analytics-with-Microsoft-Fabric/main/Swiggy_Analytics_Project_Report.docx)
+ — complete documentation with live data metrics, schema, and insights
 2. **View screenshots** → [`screenshots/`](screenshots/) — dashboard visuals from the live trial
 3. **Inspect the model** → Open `Swiggy_Sales_Dashboard.pbix` in Power BI Desktop to see the star schema, relationships, and DAX measures (data will not load without Fabric connection)
 
